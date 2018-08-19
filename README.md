@@ -5,7 +5,7 @@ Demo application for recording checklist data for a manufacturing environment.
 The paperless source comes in 3 parts:
 - paperless-db: database script (SQL Server 2016)
 - paperless-api: paperless api project (.NET Core 2.0 / Visual Studio Code)
-- paperless-ui: paperles UI (SPA application using Vue)
+- paperless-ui: paperless UI (SPA application using Vue)
 
 # tools
 In order to build and run this solution, you'll need the following:
