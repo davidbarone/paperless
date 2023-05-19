@@ -1,4 +1,7 @@
 # paperless
+
+> **NOTE: THIS REPOSITORY HAS BEEN ARCHIVED AND IS NO LONGER ACTIVELY MAINTAINED.**
+
 Demo application for recording checklist data for a manufacturing environment.
 
 # installation
